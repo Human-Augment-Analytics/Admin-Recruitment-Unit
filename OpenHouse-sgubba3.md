@@ -1,4 +1,5 @@
 # Open House / Project Showcase for HAAG
+Drafted by Subhash Gubba, CS8803
 
 ## Problem
 Currently it is not very clear which projects are on-going, what state they are in, who is involved in them, and what they encompass. Whatever information exists is distributed across a wiki, Georgia Tech webpage, a PDF advert, and does not seem to be up to date or complete. This can create confusion for incoming students, volunteers, and faculty / staff who may want to get involved with HAAG.
@@ -18,9 +19,17 @@ It would be important to collect and organize the current workings of project in
 
 ## Potential Procedure
 - Create a template or series of templates for projects to follow for creating a presentation
+  - Form of powerpoint or video recording
+  - Include import information, links to papers and Github repositories
 - Create a plan for hosting an Open House
+  - Zoom Call, with breakout rooms
+  - Advertise the event in newsletters, forums, etc.
+  - Include details in the Course adverts and descriptions, webpages
 - Outline how project teams will participate and what they must provide in order to have their project showcased
 - Designate or ask for representatives
+  - Prefer faculty, but if unavailable one or two representatives from the team
+  - Responsible for creating the presentation and answering questions
+- Plan for recording and sharing the Open House
 
 ## Validating the Idea and Procedure
 - Trial run the procedure with a few projects and public participants or OMSCS community members both inside and outside of HAAG
@@ -31,3 +40,6 @@ It would be important to collect and organize the current workings of project in
 - There could be a lot of overhead with planning and hosting an event like this, so it would be important minimize that during the process of organizing and executing.
 - Additionally it is important that projects have equal representation and fairness in treatment when being showcased, and this should be accounted for as much as possible to avoid creating stress and strain within the HAAG community.
 - Coordination is key and ensuring we present the projects in the most professional manner is a must. Misrepresnting the HAAG community, its members, and its work is always possible if we are not on the same page.
+
+## Audience for the Procedure
+Any manager or admin who would take on organizing and executing the Open House event. Other stakeholders who might be interested in the procedure would be HAAG Leadership for approval and oversight purposes. Faculty, researchers, and advisors would only need to understand the presentation and Open House participation portions of the procedure.
