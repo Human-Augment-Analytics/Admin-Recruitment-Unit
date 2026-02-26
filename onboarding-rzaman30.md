@@ -1,3 +1,6 @@
+Feedback from BREE:
+This is a cool idea! Think about who will be responsible for implementing this at the start of the semester ie how will the teams know they need to do this. Is it incorporated with grading, are the comp advisors trained to do it? You could even record a video of the procedure and just make sure it gets sent out every semester. thinking through implementation will lead to greater use. 
+
 # Procedure Topic: Onboarding
 ## Fast Time-to-First-Contribution (TTFC) Procedure
 
@@ -26,4 +29,5 @@ Collecting this information would assess how projects are currently doing with r
 To validate whether this procedure achieves the intended outcomes, we can compare the metrics collected above, focusing on TTFC, how long it took computation advisor to validate, and if goals are being hit consistently.
 
 ### Intended Audience for Procedure
+
 This procedure is intended for HAAG admins and faculty/computational advisors to monitor researchers' participation/onboarding experience, and require active researcher contribution.
