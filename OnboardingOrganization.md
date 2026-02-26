@@ -1,5 +1,9 @@
 # Onboarding Organizxation
 
+Bree's feedback:
+_ lets get more specific for example admin onbourding, comp advisor on booarding, do you want to improve the master excel sheet in some specific way. 
+The current scope is a bit too large in my opinion. start small, add more if there is time. 
+
 Alexa Accuardi
 
 The goal of this initiative is to improve the process for organizing information related to active enrollments within HAAG. The deliverable will be a procedure that outlines the process for getting organized at the start of each semester.
