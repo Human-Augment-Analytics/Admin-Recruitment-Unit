@@ -1,6 +1,8 @@
 Feedback from BREE:
 This is a cool idea! Think about who will be responsible for implementing this at the start of the semester ie how will the teams know they need to do this. Is it incorporated with grading, are the comp advisors trained to do it? You could even record a video of the procedure and just make sure it gets sent out every semester. thinking through implementation will lead to greater use. 
 
+Response from Riyam: Thanks for the feedback, Bree! I do think it would be a good addition to a first assignment type of grading. Since we are aiming to have the project GitHub repos all under the HAAG GitHub group, I am thinking that we could potentially build an automated workflow using the GitHub API where given the roster of enrolled students, a script can check within a given timeframe (say the beginning of the semester to 14 days after it begins at the latest) either on a daily basis, or on a one-time basis, whether a student has been able to merge at least 1 PR (whether a code contribution, a literature doc contribution, artifacts from a successful pipeline run, etc.) The student would be responsible for opening the PR and a computational advisor/faculty would be expected to review the PR before it can be merged to provide accountability on the full feedback loop. That way HAAG has all the metrics it can use for grading and future analysis as needed. If the automated GitHub version of that ends up being too complicated, we could probably just have the comp advisors be responsible for submitting the link to each researcher's first contribution via an appropriate medium (is there an existing way HAAG admins communicate with the computational advisors for this type of thing?). Whichever route we end up taking, I'd be happy to record a tutorial video for the researcher-side and computational advisor-side. 
+
 # Procedure Topic: Onboarding
 ## Fast Time-to-First-Contribution (TTFC) Procedure
 
@@ -31,3 +33,4 @@ To validate whether this procedure achieves the intended outcomes, we can compar
 ### Intended Audience for Procedure
 
 This procedure is intended for HAAG admins and faculty/computational advisors to monitor researchers' participation/onboarding experience, and require active researcher contribution.
+
