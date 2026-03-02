@@ -1,12 +1,8 @@
 # Onboarding Organizxation
 
-Bree's feedback:
-_ lets get more specific for example admin onbourding, comp advisor on booarding, do you want to improve the master excel sheet in some specific way. 
-The current scope is a bit too large in my opinion. start small, add more if there is time. 
-
 Alexa Accuardi
 
-The goal of this initiative is to improve the process for organizing information related to active enrollments within HAAG. The deliverable will be a procedure that outlines the process for getting organized at the start of each semester.
+The purpose of this initiative is to improve the process for organizing information related to active enrollments within HAAG. The deliverable will be a procedure that outlines the process for getting organized at the start of each semester. The current master excel sheet organizes participants by faculty and making it difficult to locate information. The goal of this project is to organize this information so individual can pivot the data in a way that is meaningful for them.
 
 ## Initiative Framework
 
@@ -23,11 +19,11 @@ The first step of this process will be to document and learn about current proce
 
 ### 2. Hypothesis
 
-My hypothesis is that adopting a tool such as Notion will allow for better organization and greater clarity of HAAG admin processes.
+My hypothesis is that adopting a tool such as Notion or Excel pivot tables for organizing team structures will allow for better organization and greater clarity of current research teams.
 
 ### 3. Experiment
 
-To experiment with this, I will use the information gathered during the discover phase to implement organization within Notion. If Notion is not within the program's budget, this phase will involve researching other tools/software available to us.
+To experiment with this, I will use the information gathered during the discover phase to implement organization within Notion. If Notion is not within the program's budget, this phase will involve researching other tools/software available to us (such as using Excel but utilizing pivot tables).
 
 ### 4. Report & Iterate
 
