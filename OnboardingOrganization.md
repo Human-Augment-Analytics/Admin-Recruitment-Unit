@@ -1,4 +1,4 @@
-# Onboarding Organizxation
+# Onboarding Organization
 
 Alexa Accuardi
 
