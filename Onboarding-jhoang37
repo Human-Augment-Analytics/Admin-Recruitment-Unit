@@ -1,0 +1,124 @@
+# Procedure Topic: Recruitment  
+## Standardized Onboarding & Early Momentum Procedure (Week 0 → First Contribution)
+
+Jimmy Hoang
+
+---
+
+## Problem Statement
+
+Onboarding and early ramp-up across HAAG teams is inconsistent. New researchers (and computational advisors) can lose momentum early due to unclear expectations, uneven documentation, and delays in access/setup. Common friction points include:
+
+- No shared “Week 0” standard for what must be defined up front (goals, repos, access, readings, first tasks)
+- Access/setup steps that aren’t centralized, causing back-and-forth
+- Unclear expectations for computational advisor involvement and accountability loops
+- Slow transition from onboarding → meaningful work, which can set a low-momentum tone for the semester
+
+This initiative focuses on standardizing onboarding so new members can get productive faster and teams can start moving earlier.
+
+---
+
+## Initiative Goal
+
+Design and evaluate a lightweight onboarding procedure that helps new HAAG members ramp up quickly and consistently across teams.
+
+**Deliverables**
+- A documented onboarding procedure that can be reused each semester
+- A “Week 0 Onboarding Packet” template (one-page checklist + links)
+- A simple rollout guide for project managers / admins
+
+---
+
+# Initiative Framework
+
+## 1. Discovery
+
+To understand the current onboarding workflow and bottlenecks, I will:
+
+- Review existing onboarding materials and references (Slack/Wiki/Canvas and any team docs)
+- Capture how different teams currently handle:
+  - Goals and scope clarity
+  - Access requirements (tools, repos, datasets)
+  - Expected onboarding readings / background material
+  - Team communication norms and first tasks
+- Interview a small set of stakeholders (admins/TAs, project managers, researchers, and computational advisors) to learn:
+  - What slowed onboarding the most
+  - What information people wish they had on Day 1
+  - Which steps create repeated admin overhead
+
+This phase outputs a short “current state map” of onboarding steps and recurring failure points.
+
+---
+
+## 2. Hypothesis
+
+If HAAG adopts a standardized “Week 0 Onboarding Packet” and checklist that every team completes before (or immediately after) new members join, then:
+
+- New members will understand expectations earlier
+- Access/setup will complete faster with fewer follow-up messages
+- Teams will reach a first meaningful task/commit sooner
+- Admin overhead from repeated clarification will decrease
+
+---
+
+## 3. Experiment – Pilot + Walkthrough Review
+
+If a live onboarding cycle is available, I will pilot this procedure with 1–2 teams. If not, I will run a structured walkthrough evaluation using stakeholders and past onboarding scenarios.
+
+### Procedure
+
+1. **Create a Week 0 Onboarding Packet template** (single source of truth) containing:
+   - Project goals (1–3 bullets)
+   - Required access list (accounts, repos, datasets, tools)
+   - Repo map (which repos matter + what each is for)
+   - Required onboarding readings (short list + links)
+   - Communication cadence (meetings, async norms, response expectations)
+   - Computational advisor expectations (level of involvement, review loop)
+   - “First task menu” (2–5 starter tasks sized for early contribution)
+
+2. **Run the pilot or walkthrough**
+   - Pilot: give the template to participating teams and have them use it for onboarding
+   - Walkthrough: simulate the perspective of a new joiner reading the packet and completing setup
+
+3. **Collect feedback**
+   - Ask: What was unclear? What’s missing? What feels redundant?
+   - Identify any repeated confusion points and revise the template/procedure
+
+---
+
+## 4. Metrics for Evaluation
+
+Success will be measured using a small set of practical indicators:
+
+- **Time to access complete** (acceptance → all required access granted)
+- **Time to first meaningful task/commit** (access complete → first real contribution)
+- **Clarity score** from quick stakeholder feedback (e.g., “Was it obvious what to do next?”)
+- **Reduction in back-and-forth** (qualitative: fewer repeated clarification messages)
+
+If the procedure reduces ambiguity and improves early momentum without adding heavy overhead, it will be considered effective.
+
+---
+
+## 5. Report & Iterate
+
+After the pilot / walkthrough:
+
+- Summarize findings and note the biggest onboarding bottlenecks
+- Revise the onboarding packet template and checklist
+- Produce the finalized onboarding procedure and a short implementation guide
+- Recommend where this should live (shared repo/docs) and who owns updating it each semester
+
+---
+
+## Intended Audience
+
+- HAAG admins / TAs  
+- Project managers / team leads  
+- Computational advisors  
+- Faculty advisors (visibility into who is onboarded + contributing)
+
+---
+
+## Organizational Need Being Served
+
+This initiative supports faster, more consistent onboarding and protects early-semester momentum. It also improves continuity across semesters by ensuring key project information is documented in a reusable, standardized format.
