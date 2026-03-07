@@ -4,6 +4,7 @@
 **kpatil42@gatech.edu**
 
 This initiative focuses on standardizing how the Vector DB Project recruits, selects, and onboards contributors each semester. The goal is to consolidate key documentation (project scope, operations, expectations, tooling) and create a reusable recruitment template—potentially embedded as a set of Slack channel modules/pinned posts—so new members can ramp up quickly and project leadership can consistently evaluate and onboard candidates. This will reduce onboarding friction, preserve institutional knowledge, and ensure continuity across semesters.
+
 ---
 
 ## 1) Brainstorm 5 procedures that could be observed within HAAG related to Recruitment
