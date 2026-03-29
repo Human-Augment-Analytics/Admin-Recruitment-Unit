@@ -19,7 +19,7 @@ The team members do work together in smaller groups of one or two here and there
 The team has made great progress in setting up pipelines for running ML models and iterating through different compounds to run the search for a great PFAS absorption candidate. 
 
 ## Collaboration, Support, and Motivation
-- I check-in at the bi-weekly meetings and also encourage the team to speak up when faced with a question or challenge they may have come across. Additionally, in the event of technical challenges, I make sure to ask if the comp advisor can step in and assist in anyway, and follow-up that the help was given. Since we are in early stages as a team, I want to encourage everyone to collaborate early and often, and set the stage for a culture future iterations of this team can adopt.
+I check-in at the bi-weekly meetings and also encourage the team to speak up when faced with a question or challenge they may have come across. Additionally, in the event of technical challenges, I make sure to ask if the comp advisor can step in and assist in anyway, and follow-up that the help was given. Since we are in early stages as a team, I want to encourage everyone to collaborate early and often, and set the stage for a culture future iterations of this team can adopt.
 
 ## Received Feedback
 I have not received much feedback but I will request some during each of my one-on-one meetings I plan to have with the researchers. Beyond that, people seem to generally appreciate my ideas and my approach to the project management.
