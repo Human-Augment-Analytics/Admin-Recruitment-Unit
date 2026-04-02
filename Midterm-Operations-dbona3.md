@@ -50,4 +50,5 @@ I plan to follow up with Dr. Mussman, the perceived team lead, and the rest of t
 ## Please provide feedback on what support you may need in your role.
 
 Although not much support is needed for my role at its current state, it would be helpful to access the project's past basecamp so that I could consolidate that information into the projects current slack.
+
 ---
