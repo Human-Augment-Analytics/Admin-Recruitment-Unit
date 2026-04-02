@@ -38,7 +38,7 @@ My inititiave revolves around a modular, Slack-Integrated Recruitment Operations
 
 The (4) Standardized Operating Procedures/Processes (SOP) are listed below with their expected outputs:
 
-Procedure 1.1 – Capacity & Skill Gap Assessment
+Procedure 1.1 – [Capacity & Skill Gap Assessment](SlackROF/Capacity_Skill_Gap_Assessment.md)
 
 - Identify number of recruits needed
 - Define required technical skills
@@ -47,7 +47,7 @@ Procedure 1.1 – Capacity & Skill Gap Assessment
 
 Output: Published Role Description
 
-Procedure 2.1 – [Standardized Application Form](SlackROF/Capacity_Skill_Gap_Assessment.md)
+Procedure 2.1 – [Standardized Application Form](SlackROF/Standardized_Application_Form.md)
 
 Implements a Slack Workflow-based application system collecting:
 
@@ -63,7 +63,7 @@ Applications submitted via: Slack Workflow Form
 
 Output: Structured applicant dataset reviewed in private Slack channels
 
-Procedure 3.1 – Onboarding Packet
+Procedure 3.1 – [Onboarding Packet](SlackROF/Onboarding_Packet.md)
 
 Includes:
 - Project Overview
@@ -74,7 +74,7 @@ Includes:
 
 Output: Consistent Onboarding Experience
 
-Procedure 4.1 – Slack Recruitment Architecture
+Procedure 4.1 – [Slack Recruitment Architecture](SlackROF/Slack_Recruitment_Architecture.md)
 
 Procedure/Process for HAAG Admin/Recruitment Team to reconfigure both overall HAAG Slack Channel and Project Channels to include the following skelection, using Vector DB as the specific project example:
 
