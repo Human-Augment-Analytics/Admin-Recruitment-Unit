@@ -47,12 +47,10 @@ KPIs to be Measured
 
 ```mermaid
 flowchart TD
-    A[Collect baseline onboarding experiences from 2 to 3 managers]
-    B[Identify challenges with current organization of enrollment information]
-
-    C[Develop improved onboarding procedure]
+    A[Discuss with Project Admin and Researchers H1]
+    B[Propse H2 Slack-integrated workflow and H3 Slack Architecture with HAAG Admin]
+    C[Employ H1 by "Capacity & Skill Assessment" and "Standardized Application Form]
     D[Reformat and reorganize master spreadsheet]
-
     E[Present proposed changes to managers]
     F{Would changes make onboarding faster and easier?}
 
