@@ -27,11 +27,13 @@ H1: Standardized role descriptions and structured applications improve candidate
 
 H2: Slack-integrated workflows reduce administrative overhead
 
-- Recruitment coordination time for project admins will decrease
+ - Assumed: Recruitment coordination time for project admins will decrease
+ - Confirmation can be attained with assessment/discussion from current HAAG Recruitment Admin
 
-H3: Centralized discovery increases applicant volume and quality
+H3: Centralized discovery channels increase applicant volume and quality
 
-HAAG-level recruitment visibility will increase qualified applicants
+ - Assumed: HAAG-level recruitment visibility will increase qualified applicants
+ - Confirmation will be realized in the next recruitment cycle
 
 ---
 
