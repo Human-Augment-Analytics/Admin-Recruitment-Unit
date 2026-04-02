@@ -118,6 +118,12 @@ Output: Uniform recruitment and internal deliberation channels
 
 ## How are you currently measuring progress toward your goals? Whatindicators of success or challenges have you identified so far?
 
+I expect to measure progress and success of my goals by reviewing the (4) process documents with the current HAAG admin team who have participated in the past recruitment cycles, and with my own Vector DB team to confirm any improvements or gaps to address from their experiences with onboarding themselves or onboarding other members. It is equally important to align my process with the other recruitment initiatives that can coincide with mine, "HAAG Enrollemnt Management" and "Standardized Recruitment Email Framework", and ensure with those project managers can our initiatives can coexist to improve recruitment operations as whole. Example topics to address:
+
+- Does the Capacity & Skill Gap Assessment comprehensively define the type of team member needed for the project? (Project Team)
+- Is the Standardized Application Form simple enough not to deter candidates while also gathering the necessary information for deliberation? (HAAG Recruitment Admin)
+- Does the Onboarding Packet provide new members enough information to successfully contribute quicker (Performance Evaluation)
+- Is the Slack Recruitment Archiecture conducive to efficient application delibertion? (HAAG Recruitment Admin)
 
 ---
 
