@@ -44,6 +44,7 @@ Procedure 1.1 – Capacity & Skill Gap Assessment
 - Define required technical skills
 - Define expected weekly commitment
 - Define deliverable expectations
+
 Output: Published Role Description
 
 Procedure 2.1 – Standardized Application Form
@@ -59,6 +60,7 @@ Implements a Slack Workflow-based application system collecting:
 
 Applications submitted via: Slack Workflow Form
 - Deliberation occurs in a determined private Slack Channel
+
 Output: Structured applicant dataset reviewed in private Slack channels
 
 Procedure 3.1 – Onboarding Packet
@@ -69,9 +71,28 @@ Includes:
 - Documentation standards
 - Operational Expectations
 - Current Team Profile
+
 Output: Consistent Onboarding Experience
 
+Procedure 4.1 – Slack Recruitment Architecture
 
+Procedure/Process for HAAG Admin/Recruitment Team to reconfigure both overall HAAG Slack Channel and Project Channels to include the following skelection, using Vector DB as the specific project example:
+
+Public Channels
+- #vectordb-general
+  - High level overview of Vector DB project through Slack Canvas
+- #vectordb-recruitment
+  - Standardized Application Form using Slack Workflow Form
+
+Private Channels
+- #vectordb-recruitment-review
+  - Dedicated private slack channel for admins to review submitted forms
+- #vectordb-onboarding
+  - Channel where new recuits are provided Onboarding Packet
+- #vectordb-admin
+  - Private discussion channel for Project Recruitment Admin
+
+Output: Uniform recruitment and internal deliberation channels
 ---
 
 ## How are you currently measuring progress toward your goals? Whatindicators of success or challenges have you identified so far?
