@@ -32,16 +32,19 @@ As I mentioned before, the team operates at a good cadence; they work diligently
 ## How are you collaborating with stakeholders to ensure your role is supporting and motivating the group?
 
 I have directly messaged and spoken with Dr. Mussman on a few occasions, asking about the expectations for the project group, and inquiring if he would like any assistance and revision to his process of taking the meeting notes every two weeks. Per his feedback, he is satisfied with how things are running and the expectation for publication is still undecided, although I can follow up with more motivation to find out his true desire for the group this semester or if the push for urgency is not necessary. I have also messaged the researchers a few times asking for suggestions or feedback organizationally or opertionally, but again it seems like the team is satisfied with the current state of things.
+
 ---
 
 ## What feedback have you received on your role solicited or unsolicited?
 
 I have not received much feedback regarding my role solicited or unsolicited. The only main suggestion from the group was to reduce the weekly report submissions from weekly to bi-weekly to align with the cadence of the bi-weekly meetings. I understand their perspective with the request, since the bulk of progress usually comes prior to the meeting for the sake of discussion and evaluation, and that only partial or incomplete progress would be reported during those "intermediate" weeks. This was in response to a reminder and discussion I had with the group to be more consistent with the weekly report submissions. I had responded that weekly report submissions were still the expectation from the HAAG Admins, and that reports with partial or incomplete progress for those "intermediate" weeks are still an acceptable submission. 
+
 ---
 
 ## What plans do you have your enhancing your role as the project managerwith the remaining time in the semester?
 
 I plan to follow up with Dr. Mussman, the perceived team lead, and the rest of the researchers individually to try to draw out some substantial suggestions and concerns, and if not then receive further confirmations that modifications to the project operations are not needed at this time. I also want to revisit the expectation of the group regarding submission now that we are crossing the halfway point of the semester. Lastly, I want to devise a way or at least define a better expectation with the team on weekly submission reports so that they are more consistent - understanding that the first half of the semester was influenced by some extraneous circumstances that hindered some team cohesion.
+
 ---
 
 ## Please provide feedback on what support you may need in your role.
