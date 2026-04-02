@@ -49,7 +49,7 @@ KPIs to be Measured
 flowchart TD
     A[Discuss with Project Admin and Researchers H1]
     B[Propse H2 Slack-integrated workflow and H3 Slack Architecture with HAAG Admin]
-    C[Employ H1 by "Capacity & Skill Assessment" and "Standardized Application Form]
+    C[Employ H1 by "Capacity & Skill Assessment" and "Standardized Application Form"]
     D[Reformat and reorganize master spreadsheet]
     E[Present proposed changes to managers]
     F{Would changes make onboarding faster and easier?}
