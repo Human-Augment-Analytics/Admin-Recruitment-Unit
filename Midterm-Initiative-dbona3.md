@@ -50,7 +50,7 @@ KPIs to be Measured
 
 ## Explain how stakeholders are engaging with your initiative. Reflecton whether their engagement matches your expectations and whatchanges may be necessary given the behavior that you observed.
 
-
+Stakeholders for my inititiative project as a whole, for example Bree, as well as the other managers within the Management & Leadership cohort have shown positive reception to a recruitment framework that revolves around Slack. It aligns with the current HAAG initiative to consolidate operational technology with HAAG research projects to the preferred method of Slack, while also addressing the recurring theme that legacy recruitment processes are not being followed semester over semester. With the aim to create a concise yet highly detailed set of Standard Operating Procedures/Processes, the stakeholders of the HAAG Recruitment Admin team should benefit from a standardized recruitment workflow, the stakeholders in the research team will realize smoother onboarding and eventual research contributions, and the candidate researchers themselves will experience efficient placement and project alignment when applying to projects. Therefore mentioned is still contingent on gathering the necessary background and further detail of previous recruitment operations and processes from the current HAAG admin team to ensure common pitfalls and repeated work is avoided or altered.
 ---
 
 ## What processes have you documented or begun documenting toensure the sustainability of your initiative provide where you arehosting this procedure? What additional documentation do youplan to complete? Link documents here for review.
@@ -112,6 +112,7 @@ Private Channels
   - Private discussion channel for Project Recruitment Admin
 
 Output: Uniform recruitment and internal deliberation channels
+
 ---
 
 ## How are you currently measuring progress toward your goals? Whatindicators of success or challenges have you identified so far?
