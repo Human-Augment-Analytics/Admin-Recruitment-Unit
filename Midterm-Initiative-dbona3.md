@@ -22,18 +22,24 @@ My inititiave revolves around a modular, Slack-Integrated Recruitment Operations
 
 H1: Standardized role descriptions and structured applications improve candidate–project alignment
 
- - Assumed: Applicants selected through structured forms will better match project needs
- - Confirmation will be realized in the next recruitment cycle
+- Assumed: Applicants selected through structured forms will better match project needs
+- Confirmation will be realized in the next recruitment cycle
 
 H2: Slack-integrated workflows reduce administrative overhead
 
- - Assumed: Recruitment coordination time for project admins will decrease
- - Confirmation can be attained with assessment/discussion from current HAAG Recruitment Admin
+- Assumed: Recruitment coordination time for project admins will decrease
+- Confirmation can be attained with assessment/discussion from current HAAG Recruitment Admin
 
 H3: Centralized discovery channels increase applicant volume and quality
 
- - Assumed: HAAG-level recruitment visibility will increase qualified applicants
- - Confirmation will be realized in the next recruitment cycle
+- Assumed: HAAG-level recruitment visibility will increase qualified applicants
+- Confirmation will be realized in the next recruitment cycle
+
+KPIs to be Measured
+- Number of applicants per recruitment cycle
+- Admin time spent reviewing candidates
+- Comparative quality of recruits (performance-based evaluation)
+- Reduction in onboarding-related confusion (qualitative feedback)
 
 ---
 
