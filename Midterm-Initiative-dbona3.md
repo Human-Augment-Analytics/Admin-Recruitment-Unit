@@ -45,7 +45,23 @@ KPIs to be Measured
 
 ## Explain your method for testing these hypotheses via flowcharts:
 
+```mermaid
+flowchart TD
+    A[Collect baseline onboarding experiences from 2 to 3 managers]
+    B[Identify challenges with current organization of enrollment information]
 
+    C[Develop improved onboarding procedure]
+    D[Reformat and reorganize master spreadsheet]
+
+    E[Present proposed changes to managers]
+    F{Would changes make onboarding faster and easier?}
+
+    A --> B
+    B --> C
+    B --> D
+    C --> E
+    D --> E
+    E --> F
 ---
 
 ## Explain how stakeholders are engaging with your initiative. Reflecton whether their engagement matches your expectations and whatchanges may be necessary given the behavior that you observed.
