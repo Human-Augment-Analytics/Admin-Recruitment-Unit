@@ -62,6 +62,7 @@ flowchart TD
     C --> E
     D --> E
     E --> F
+```
 ---
 
 ## Explain how stakeholders are engaging with your initiative. Reflecton whether their engagement matches your expectations and whatchanges may be necessary given the behavior that you observed.
