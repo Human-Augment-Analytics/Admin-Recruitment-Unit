@@ -20,7 +20,18 @@ My inititiave revolves around a modular, Slack-Integrated Recruitment Operations
 
 ## Explain the hypotheses/ KPIs you have measured at this time andwhat is left to be measured.
 
+H1: Standardized role descriptions and structured applications improve candidate–project alignment
 
+ - Assumed: Applicants selected through structured forms will better match project needs
+ - Confirmation will be realized in the next recruitment cycle
+
+H2: Slack-integrated workflows reduce administrative overhead
+
+- Recruitment coordination time for project admins will decrease
+
+H3: Centralized discovery increases applicant volume and quality
+
+HAAG-level recruitment visibility will increase qualified applicants
 
 ---
 
