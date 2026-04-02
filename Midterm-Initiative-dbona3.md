@@ -123,5 +123,13 @@ Output: Uniform recruitment and internal deliberation channels
 
 ## What obstacles or bottlenecks have you encountered inimplementing your initiative? Which anticipated challenges havematerialized, and what unexpected issues have arisen?
 
+There are not any current obstacles or bottleneck with the first phase of establishing the Slack Recruitment Operations Framework. Anticipated challenges include
+
+- Adoption by the HAAG Admin Recruitment team to adopt the (4) SOPS semester over semester
+- Project teams conducting the Capacity & Skill Gap Assessment prior to every recuritment cycle or at the end of each semester
+- HAAG Admin or Project teams maintaining up-to-date Onboarding Packets as research progress is made each semester, or generation of Onboarding Packets for new projects
+- Utilization of correct channels for information dispersal and deliberation, instead of main project channels
+
+Efforts to resolve the above obstacles and bottleneck can be done with appropriate eductaional or information sessions such a training meeting or instructional videos
 
 ---
