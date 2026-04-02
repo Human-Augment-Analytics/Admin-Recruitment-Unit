@@ -36,7 +36,14 @@ My inititiave revolves around a modular, Slack-Integrated Recruitment Operations
 
 ## What processes have you documented or begun documenting toensure the sustainability of your initiative provide where you arehosting this procedure? What additional documentation do youplan to complete? Link documents here for review.
 
+The (4) Standardized Operating Procedures/Processes (SOP) are listed below with their expected outputs:
 
+Procedure 1.1 – Capacity & Skill Gap Assessment
+
+- Identify number of recruits needed
+- Define required technical skills
+- Define expected weekly commitment
+- Define deliverable expectations
 ---
 
 ## How are you currently measuring progress toward your goals? Whatindicators of success or challenges have you identified so far?
