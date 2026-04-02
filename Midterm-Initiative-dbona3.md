@@ -50,16 +50,22 @@ flowchart TD
     A[Discuss with Project Admin and Researchers H1]
     B[Propse H2 Slack-integrated workflow and H3 Slack Architecture with HAAG Admin]
     C[Employ H1 by Capacity & Skill Assessment and Standardized Application Form]
-    D[Reformat and reorganize master spreadsheet]
-    E[Present proposed changes to managers]
-    F{Would changes make onboarding faster and easier?}
+    D[Implement H2 and H3 within HAAG Slack Channel and Project Slack Channel]
+    E[Undergo Recruitment Cycle]
+    F[Review Number of Applicants from Recruitment Cycle]
+    G[Assess time spent reviewing candidates with HAAG Admin]
+    H[Perform performance-based evaluation with Project Admin/Team Lead]
+    I[Obtain qualititaive feedback on application procees and delibreation process from candidiate and recruitment admin respectively]
 
-    A --> B
-    B --> C
+    A --> C
     B --> D
     C --> E
     D --> E
     E --> F
+    E --> G
+    E --> H
+    E --> I
+
 ```
 ---
 
