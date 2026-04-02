@@ -9,7 +9,12 @@
 
 ## Describe your initiative/ Procedure.
 
+My inititiave revolves around a modular, Slack-Integrated Recruitment Operations Framework (ROF) paired with (4) Standardized Operating Procedures/Processes (SOP) to regulate recruitment, evaluation, and onboarding processes within all HAAG research projects. The overall goal is for the framework and SOPs to adddress the current inefficiencies with research recruitment which includes
 
+- Unclear role/candidate expectations
+- Inconsistent onboarding experiences
+- Non-uniform recruitment and deliberation communication
+- Lack of persistent recruitment and project documentation
 
 ---
 
