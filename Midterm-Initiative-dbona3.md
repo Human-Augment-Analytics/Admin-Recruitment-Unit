@@ -44,6 +44,34 @@ Procedure 1.1 – Capacity & Skill Gap Assessment
 - Define required technical skills
 - Define expected weekly commitment
 - Define deliverable expectations
+Output: Published Role Description
+
+Procedure 2.1 – Standardized Application Form
+
+Implements a Slack Workflow-based application system collecting:
+
+- Academic background
+- Relevant coursework
+- Technical stack
+- Availability
+- Prior research experience
+- Motivation statement
+
+Applications submitted via: Slack Workflow Form
+- Deliberation occurs in a determined private Slack Channel
+Output: Structured applicant dataset reviewed in private Slack channels
+
+Procedure 3.1 – Onboarding Packet
+
+Includes:
+- Project Overview
+- Git Workflow/Access
+- Documentation standards
+- Operational Expectations
+- Current Team Profile
+Output: Consistent Onboarding Experience
+
+
 ---
 
 ## How are you currently measuring progress toward your goals? Whatindicators of success or challenges have you identified so far?
