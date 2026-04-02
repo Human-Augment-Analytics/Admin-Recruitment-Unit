@@ -5,7 +5,7 @@
 This initiative aims to improve researcher-to-project matchmaking by building on the standardized application process by systematically taking the researcher inputs that include their interests, skills, and goals, and pair them with structured input via a survey from faculty leads on historical project challenges, projected project needs, and researcher expectations. The purpose is to enable an efficient yet still personalized matchmaking process to minimize the extra lift currently placed on admins while boosting retention and engagement metrics.
 
 ### Hypotheses/KPIs
-1.. Given a consolidated team-matching system, the amount of time admins spend on manual team-matching will be reduced.
+1. Given a consolidated team-matching system, the amount of time admins spend on manual team-matching will be reduced.
 
 I will need to collect data, if it exists, on currrent time spent and paperwork the admins do for the matchmaking process. 
 
