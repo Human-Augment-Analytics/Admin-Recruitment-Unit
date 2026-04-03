@@ -18,6 +18,35 @@ I will need to collect data on existing retention and engagement metrics, which 
 
 2. Once the engagement proxies are collected, we can compare project progress from this semester to next semester and evaluate whether retention and engagement went up as a result of the systemized process, where a randomized selection of projects can participate in this pilot.
 
+```mermaid
+flowchart TD
+    A[Matchmaking Platform] --> B{Hypothesis}
+
+    %% Hypothesis 1
+    B -->|1. Reduce admin time| C[Collect current admin workflow data]
+    C --> D{Historical data available?}
+    D -->|Yes| E[Define baseline metrics: Avg review time, manual steps]
+    D -->|No| F[Measure baseline during next application cycle]
+    E --> G[Run matchmaking system during pilot alongside manual review]
+    F --> G
+    G --> H[Track system recommendations and manual admin intervention]
+    H --> I[Compare pilot results against baseline]
+    I --> J{Did admin effort decrease?}
+    J -->|Yes| K[Support Hypothesis 1]
+    J -->|No| L[Reassess workflow fit and system design]
+
+    %% Hypothesis 2
+    B -->|2. Increase researcher engagement| M[Collect current engagement and retention data]
+    M --> N[Define baseline metrics\nRetention, participation, project progress]
+    N --> O[Select pilot group of projects]
+    O --> P[Apply systemized matching process]
+    P --> Q[Track engagement outcomes next semester]
+    Q --> R[Compare pilot outcomes with prior semester baseline]
+    R --> S{Did engagement improve?}
+    S -->|Yes| T[Support Hypothesis 2]
+    S -->|No| U[Reassess pilot design and engagement measures]
+```
+
 ### Engaging Stakeholders
 I have currently engaged with a few of the admins for insight on the applications that the potential researchers submit with some insights into the existing matchmaking process. I have the application preview, and will need to conduct further analysis on how to structure the system. Once this is done and questions are refined based on any noticeable gaps (if any) from the researcher matching process side, and for the faculty side, I plan to engage the admins on their thoughts on the criteria/tuning.
 
