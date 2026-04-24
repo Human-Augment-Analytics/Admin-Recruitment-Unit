@@ -1,4 +1,4 @@
-# HAAG Open House / Project Showcase Procedure
+# HAAG Open House / Project Showcase (Main Event) Procedure
 To be planned and executed by one or two managers or admins.
 
 ## Assemble Project Representative Group
