@@ -26,7 +26,7 @@ To be planned and executed by one or two managers or admins.
 10. Recommended to create a trial meeting first to make sure settings, etc. are all configured correctly.
 
 ## Draft and Send Email for the Event
-1. Create an email to send to a public mailing list or to other groups. Additionally craft a message to be shared in the HAAG org to be passed along to others.
+1. Create an [email](https://github.com/Human-Augment-Analytics/Admin-Recruitment-Unit/blob/main/Open-House/email-templates.md#email-template-for-open-house-announcement) to send to a public mailing list or to other groups. Additionally craft a message to be shared in the HAAG org to be passed along to others.
 2. The email/message should contain:
     - A brief intro to HAAG as a concept.
     - A list of the active projects.
@@ -49,7 +49,9 @@ To be planned and executed by one or two managers or admins.
 
 ## Follow-up - Post Video and Send Out
 1. Following the meeting, once recordings are ready, upload them to the HAAG video platform (whatever exists, YouTube, etc.)
+    - There should be a recording for the main event and one per room. You can decide to stitch these together into one long video and provide chapters / timestamps to link to each portion. This might be too long of a video however.
+    - The other option (probably better option) would be to upload each video separately, add them all to a playlist, and then share a link to the playlist.
 2. Credentials or permissions for upload to the platform may need to be obtained first, confirm this with HAAG Leadership. 
-3. Draft a final email to attendees of the meeting thanking them and sharing the video recordings.
-4. Include a link to the survey in the email and encourage them to take it.
+3. Draft a final [email](https://github.com/Human-Augment-Analytics/Admin-Recruitment-Unit/blob/main/Open-House/email-templates.md#email-template-for-prospective-researcher-survey) to attendees of the meeting thanking them and sharing the video recordings.
+4. Include a link to the [survey](https://github.com/Human-Augment-Analytics/Admin-Recruitment-Unit/blob/main/Open-House/proc-surveys.md#create-active-haag-researcher-survey) in the email and encourage them to take it.
 5. Collect the results and share them with the HAAG leadership.
