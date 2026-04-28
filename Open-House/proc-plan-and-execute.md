@@ -12,17 +12,18 @@ To be planned and executed by one or two managers or admins.
 
 ## Set Open House Date and Create Teams Meeting
 1. Choose a date late in the semester, before classes end. Try to avoid the exams week.
-2. In Teams, create a meeting/webinar for the date.
-3. 2. **MAKE SURE RECORDING IS ENABLED.**
-4. Setup breakout rooms, one per participating project, and assign the represetative as an admin for the room.
-5. Allow participants to join the rooms freely.
-6. Enable recording for the session.
-7. Agenda for the meeting will be something like:
+2. The date should also be before the application deadline for research, generally set by Dr. Lytle and/or Dr. Shi. Confirm this with HAAG Leadership.
+3. In Teams, create a meeting/webinar for the date.
+4. 2. **MAKE SURE RECORDING IS ENABLED.**
+5. Setup breakout rooms, one per participating project, and assign the represetative as an admin for the room.
+6. Allow participants to join the rooms freely.
+7. Enable recording for the session.
+8. Agenda for the meeting will be something like:
     - 10 minutes of HAAG intro
     - Breakout sessions 45 minutes (5 minutes presentation, 20 minutes break for Q&A, 5 minutes presentation, 15 minutes final Q&A).
     - 5 minutes Farewell / Wrap-up (ask prospective researchers to take the survey).
-8. Create a shareable meeting link.
-9. Recommended to create a trial meeting first to make sure settings, etc. are all configured correctly.
+9. Create a shareable meeting link.
+10. Recommended to create a trial meeting first to make sure settings, etc. are all configured correctly.
 
 ## Draft and Send Email for the Event
 1. Create an email to send to a public mailing list or to other groups. Additionally craft a message to be shared in the HAAG org to be passed along to others.
@@ -48,6 +49,7 @@ To be planned and executed by one or two managers or admins.
 
 ## Follow-up - Post Video and Send Out
 1. Following the meeting, once recordings are ready, upload them to the HAAG video platform (whatever exists, YouTube, etc.)
-2. Draft a final email to attendees of the meeting thanking them and sharing the video recordings.
-3. Include a link to the survey in the email and encourage them to take it.
-4. Collect the results and share them with the HAAG leadership.
+2. Credentials or permissions for upload to the platform may need to be obtained first, confirm this with HAAG Leadership. 
+3. Draft a final email to attendees of the meeting thanking them and sharing the video recordings.
+4. Include a link to the survey in the email and encourage them to take it.
+5. Collect the results and share them with the HAAG leadership.
