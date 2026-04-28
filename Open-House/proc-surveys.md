@@ -4,21 +4,22 @@ To be created and sent by one or two managers or admins. HAAG seems to be using 
 ## Create Active HAAG Researcher Survey
 This should be sent **ASAP at the beginning of each semester** in the #general channel in slack. An existing qualtrics survey is currently shared with HAAG leadership, ask them for it to be shared with you. It should at the very least ask the following questions:
 1. Full Name
-2. How did you first hear about HAAG?
+2. What is your role in HAAG?
+3. How did you first hear about HAAG?
    -  Email
    -  Word of Mouth
    -  Reddit
    -  HAAG Website
    -  Other _____
-3. How familiar did you feel about various aspects of HAAG **BEFORE** being accepted into the program? (5 being the most)
+4. How familiar did you feel about various aspects of HAAG **BEFORE** being accepted into the program? (5 being the most)
    -  Active Research Projects (1 to 5)
    -  HAAG Org Structure (1 to 5)
    -  HAAG Internal Processes (1 to 5)
-4. How familiar do you currently feel about various aspects of HAAG? (5 being the most)
+5. How familiar do you currently feel about various aspects of HAAG? (5 being the most)
    -  Active Research Projects (1 to 5)
    -  HAAG Org Structure (1 to 5)
    -  HAAG Internal Processes (1 to 5)
-5. What finally convinced you to apply to the HAAG program?  
+6. What finally convinced you to apply to the HAAG program?
 
 ## Create Prospective HAAG Researcher Survey
 This should be sent **ASAP after the Open House**, both in the event itself and in the follow-up email after uploading the recording. An existing qualtrics survey is currently shared with HAAG leadership, ask them for it to be shared with you. It should at the very least ask the following questions:
@@ -41,4 +42,18 @@ This should be sent **ASAP after the Open House**, both in the event itself and 
    -  Maybe
    -  No
    -  For a different role: _______
-  
+6. Any feedback regarding the Open House event?
+
+### Email Template for Prospective Researcher Survey
+```
+Hello OMSCS!
+
+To those of you who attended the HAAG Open House, thank you so much! Those who were unable to attend can view a recording of the live event here (insert link to recordings).
+We would also like to invite you to fill out this short survey so HAAG can better develop its outreach and recruitment efforts (insert link to survey here). Thank you for your time.
+
+Sincerely,
+HAAG Research Recruitment
+```
+
+Be sure to get approval from HAAG Leadership before sending the final draft of the email.
+
