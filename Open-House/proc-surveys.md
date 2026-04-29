@@ -3,6 +3,8 @@ To be created and sent by one or two managers or admins. HAAG seems to be using 
 
 ## Create Active HAAG Researcher Survey
 This should be sent **ASAP at the beginning of each semester** in the #general channel in slack. An existing qualtrics survey is currently shared with HAAG leadership, ask them for it to be shared with you. It should at the very least ask the following questions:
+
+[Link for Collaborating on Survey](https://gatech.co1.qualtrics.com/survey-builder/SV_3L8KZoVEkBVK30a/edit) (**do not send this to others**, it is not the link for taking the survey)
 1. Full Name
 2. What is your role in HAAG?
 3. How did you first hear about HAAG?
@@ -23,6 +25,8 @@ This should be sent **ASAP at the beginning of each semester** in the #general c
 
 ## Create Prospective HAAG Researcher Survey
 This should be sent **ASAP after the Open House**, both in the event itself and in the follow-up email after uploading the recording. An existing qualtrics survey is currently shared with HAAG leadership, ask them for it to be shared with you. It should at the very least ask the following questions:
+
+[Link for Collaborating on Survey](https://gatech.co1.qualtrics.com/survey-builder/SV_brUpvPQ24f6fUUu/edit) (**do not send this to others**, it is not the link for taking the survey)
 1. Full Name
 2. How did you first hear about HAAG?
    -  Email
@@ -44,16 +48,4 @@ This should be sent **ASAP after the Open House**, both in the event itself and 
    -  For a different role: _______
 6. Any feedback regarding the Open House event?
 
-### Email Template for Prospective Researcher Survey
-```
-Hello OMSCS!
-
-To those of you who attended the HAAG Open House, thank you so much! Those who were unable to attend can view a recording of the live event here (insert link to recordings).
-We would also like to invite you to fill out this short survey so HAAG can better develop its outreach and recruitment efforts (insert link to survey here). Thank you for your time.
-
-Sincerely,
-HAAG Research Recruitment
-```
-
-Be sure to get approval from HAAG Leadership before sending the final draft of the email.
-
+Survey should be sent out after the Open House event, and as part of a follow up [email](https://github.com/Human-Augment-Analytics/Admin-Recruitment-Unit/blob/main/Open-House/email-templates.md#email-template-for-prospective-researcher-survey) after the recording is uploaded.
