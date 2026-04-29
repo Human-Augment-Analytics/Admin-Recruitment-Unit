@@ -53,5 +53,5 @@ To be planned and executed by one or two managers or admins.
     - The other option (probably better option) would be to upload each video separately, add them all to a playlist, and then share a link to the playlist.
 2. Credentials or permissions for upload to the platform may need to be obtained first, confirm this with HAAG Leadership. 
 3. Draft a final [email](https://github.com/Human-Augment-Analytics/Admin-Recruitment-Unit/blob/main/Open-House/email-templates.md#email-template-for-prospective-researcher-survey) to attendees of the meeting thanking them and sharing the video recordings.
-4. Include a link to the [survey](https://github.com/Human-Augment-Analytics/Admin-Recruitment-Unit/blob/main/Open-House/proc-surveys.md#create-active-haag-researcher-survey) in the email and encourage them to take it.
+4. Include a link to the [survey](https://github.com/Human-Augment-Analytics/Admin-Recruitment-Unit/blob/main/Open-House/email-templates.md#email-template-for-prospective-researcher-survey) in the email and encourage them to take it.
 5. Collect the results and share them with the HAAG leadership.
