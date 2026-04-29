@@ -1,13 +1,13 @@
-# Management & Leadership Mid-Semester Report
+# Management & Leadership Final Report
 
-## Initiative Questions
+## Initiative
 
 - Project Context: Vector DB Research Project (Dr. Mussman)
 - Initiative Manager: Dylan Bona
 - dbona3@gatech.edu
 ---
 
-## Describe your initiative/ Procedure.
+## Define Scope of Intiative
 
 My inititiave revolves around a modular, Slack-Integrated Recruitment Operations Framework (ROF) paired with (4) Standardized Operating Procedures/Processes (SOP) to regulate recruitment, evaluation, and onboarding processes within all HAAG research projects. The overall goal is for the framework and SOPs to adddress the current inefficiencies with research recruitment which includes
 
@@ -18,32 +18,13 @@ My inititiave revolves around a modular, Slack-Integrated Recruitment Operations
 
 ---
 
-## Explain the hypotheses/ KPIs you have measured at this time andwhat is left to be measured.
+## Alignment with HAAG's Goals
 
-H1: Standardized role descriptions and structured applications improve candidate–project alignment
-
-- Assumed: Applicants selected through structured forms will better match project needs
-- Confirmation will be realized in the next recruitment cycle
-
-H2: Slack-integrated workflows reduce administrative overhead
-
-- Assumed: Recruitment coordination time for project admins will decrease
-- Confirmation can be attained with assessment/discussion from current HAAG Recruitment Admin
-
-H3: Centralized discovery channels increase applicant volume and quality
-
-- Assumed: HAAG-level recruitment visibility will increase qualified applicants
-- Confirmation will be realized in the next recruitment cycle
-
-KPIs to be Measured
-- Number of applicants per recruitment cycle
-- Admin time spent reviewing candidates
-- Comparative quality of recruits (performance-based evaluation)
-- Reduction in onboarding-related confusion (qualitative feedback)
+Stakeholders for my inititiative project as a whole, for example Bree, as well as the other managers within the Management & Leadership cohort have shown positive reception to a recruitment framework that revolves around Slack. It aligns with the current HAAG initiative to consolidate operational technology with HAAG research projects to the preferred method of Slack, while also addressing the recurring theme that legacy recruitment processes are not being followed semester over semester. With the aim to create a concise yet highly detailed set of Standard Operating Procedures/Processes, the stakeholders of the HAAG Recruitment Admin team should benefit from a standardized recruitment workflow, the stakeholders in the research team will realize smoother onboarding and eventual research contributions, and the candidate researchers themselves will experience efficient placement and project alignment when applying to projects. Therefore mentioned is still contingent on gathering the necessary background and further detail of previous recruitment operations and processes from the current HAAG admin team to ensure common pitfalls and repeated work is avoided or altered.
 
 ---
 
-## Explain your method for testing these hypotheses via flowcharts:
+## Testing Workflow:
 
 ```mermaid
 flowchart TD
@@ -67,15 +48,10 @@ flowchart TD
     E --> I
 
 ```
----
-
-## Explain how stakeholders are engaging with your initiative. Reflecton whether their engagement matches your expectations and whatchanges may be necessary given the behavior that you observed.
-
-Stakeholders for my inititiative project as a whole, for example Bree, as well as the other managers within the Management & Leadership cohort have shown positive reception to a recruitment framework that revolves around Slack. It aligns with the current HAAG initiative to consolidate operational technology with HAAG research projects to the preferred method of Slack, while also addressing the recurring theme that legacy recruitment processes are not being followed semester over semester. With the aim to create a concise yet highly detailed set of Standard Operating Procedures/Processes, the stakeholders of the HAAG Recruitment Admin team should benefit from a standardized recruitment workflow, the stakeholders in the research team will realize smoother onboarding and eventual research contributions, and the candidate researchers themselves will experience efficient placement and project alignment when applying to projects. Therefore mentioned is still contingent on gathering the necessary background and further detail of previous recruitment operations and processes from the current HAAG admin team to ensure common pitfalls and repeated work is avoided or altered.
 
 ---
 
-## What processes have you documented or begun documenting toensure the sustainability of your initiative provide where you arehosting this procedure? What additional documentation do youplan to complete? Link documents here for review.
+## SlackROF Procedures
 
 The (4) Standardized Operating Procedures/Processes (SOP) are listed below with their expected outputs:
 
@@ -137,24 +113,3 @@ Output: Uniform recruitment and internal deliberation channels
 
 ---
 
-## How are you currently measuring progress toward your goals? Whatindicators of success or challenges have you identified so far?
-
-I expect to measure progress and success of my goals by reviewing the (4) process documents with the current HAAG admin team who have participated in the past recruitment cycles, and with my own Vector DB team to confirm any improvements or gaps to address from their experiences with onboarding themselves or onboarding other members. It is equally important to align my process with the other recruitment initiatives that can coincide with mine, "HAAG Enrollemnt Management" and "Standardized Recruitment Email Framework", and ensure with those project managers can our initiatives can coexist to improve recruitment operations as whole. Example topics to address:
-
-- Does the Capacity & Skill Gap Assessment comprehensively define the type of team member needed for the project? (Project Team)
-- Is the Standardized Application Form simple enough not to deter candidates while also gathering the necessary information for deliberation? (HAAG Recruitment Admin)
-- Does the Onboarding Packet provide new members enough information to successfully contribute quicker (Performance Evaluation)
-- Is the Slack Recruitment Archiecture conducive to efficient application delibertion? (HAAG Recruitment Admin)
-
----
-
-## What obstacles or bottlenecks have you encountered inimplementing your initiative? Which anticipated challenges havematerialized, and what unexpected issues have arisen?
-
-There are not any current obstacles or bottleneck with the first phase of establishing the Slack Recruitment Operations Framework. Anticipated challenges include
-
-- Adoption by the HAAG Admin Recruitment team to adopt the (4) SOPS semester over semester
-- Project teams conducting the Capacity & Skill Gap Assessment prior to every recuritment cycle or at the end of each semester
-- HAAG Admin or Project teams maintaining up-to-date Onboarding Packets as research progress is made each semester, or generation of Onboarding Packets for new projects
-- Utilization of correct channels for information dispersal and deliberation, instead of main project channels
-
-Efforts to resolve the above obstacles and bottleneck can be done with appropriate eductaional or information sessions such a training meeting or instructional videos
