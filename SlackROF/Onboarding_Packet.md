@@ -16,6 +16,18 @@ Standardize onboarding across projects to improve clarity, efficiency, and early
 
 ---
 
+## Process Flow
+
+```mermaid
+flowchart TD
+    A[Prepare Packet] --> B[Distribute to Recruits]
+    B --> C[Grant Access]
+    C --> D[Onboarding Meeting]
+    D --> E[Confirm Understanding]
+```
+
+---
+
 ## When to Use
 - Immediately after candidate acceptance  
 
