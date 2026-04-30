@@ -26,7 +26,7 @@ Given these challenges, standardizing both ends of the matchmaking process will 
 
 Below, a procedure is provided to walk admins through how to score researchers in each individual category based on their review of the application. An attached Excel template is provided with a structured scoring guide.
 
-**Researcher-to-Project Matchmaking Template**
+[**Researcher-to-Project Matchmaking Template**](https://gtvault-my.sharepoint.com/:x:/g/personal/rzaman30_gatech_edu/IQC0cfUIxx2HS7JitWRYi-NxAd21teQ0zJrJX1WizX2F8t0?e=dtuQhC)
 
 ## Matchmaking Guide
 
