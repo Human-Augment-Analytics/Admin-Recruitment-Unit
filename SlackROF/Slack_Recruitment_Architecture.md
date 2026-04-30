@@ -1,17 +1,83 @@
-Procedure/Process for HAAG Admin/Recruitment Team to reconfigure both overall HAAG Slack Channel and Project Channels to include the following skelection, using Vector DB as the specific project example:
+# SOP 4.1 – Slack Recruitment Architecture
 
-Public Channels
-- #vectordb-general
-  - High level overview of Vector DB project through Slack Canvas
-- #vectordb-recruitment
-  - Standardized Application Form using Slack Workflow Form
+## Overview
+This procedure defines the standardized Slack channel structure used to manage recruitment, evaluation, onboarding, and admin communication.
 
-Private Channels
-- #vectordb-recruitment-review
-  - Dedicated private slack channel for admins to review submitted forms
-- #vectordb-onboarding
-  - Channel where new recuits are provided Onboarding Packet
-- #vectordb-admin
-  - Private discussion channel for Project Recruitment Admin
+---
 
-Output: Uniform recruitment and internal deliberation channels
+## Purpose
+Ensure organized, transparent, and scalable recruitment workflows within Slack.
+
+---
+
+## Intended Audience
+- HAAG Admin Team  
+- Project Managers  
+
+---
+
+## When to Use
+- At project setup  
+- Before each recruitment cycle  
+
+---
+
+## Procedure
+
+### 1. Create Public Channels
+- `#project-general`
+  - Project overview (Slack Canvas)  
+
+- `#project-recruitment`
+  - Role descriptions  
+  - Application form  
+
+---
+
+### 2. Create Private Channels
+- `#project-recruitment-review`
+  - Candidate evaluation  
+
+- `#project-onboarding`
+  - New recruit onboarding  
+
+- `#project-admin`
+  - Internal admin coordination  
+
+---
+
+### 3. Configure Permissions
+- Public channels → all HAAG members  
+- Private channels → restricted access  
+
+---
+
+### 4. Define Channel Usage
+- Recruitment → recruitment channel only  
+- Evaluation → review channel only  
+- Onboarding → onboarding channel only  
+
+---
+
+### 5. Maintain Channel Discipline
+- Redirect misplaced discussions  
+- Prevent recruitment decisions in general channels  
+
+---
+
+## Output
+- Organized Slack workspace  
+
+---
+
+## Success Criteria
+- Clear communication structure  
+- Reduced clutter and confusion  
+
+---
+
+## Enforcement
+- All recruitment activity must occur in designated channels  
+- HAAG Admin enforces channel usage  
+
+---
