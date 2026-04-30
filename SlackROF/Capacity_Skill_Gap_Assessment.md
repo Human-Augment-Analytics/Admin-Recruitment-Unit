@@ -96,7 +96,7 @@ For each gap, document:
 ---
 
 ## Enforcement
-- Recruitment cannot begin without completing this SOP  
+- Recruitment for projects cannot begin without completing this SOP  
 - HAAG Admin must verify role descriptions before posting  
 
 ---
