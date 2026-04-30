@@ -16,6 +16,25 @@ Ensure organized, transparent, and scalable recruitment workflows within Slack.
 
 ---
 
+## Architecture Diagram
+
+```mermaid
+flowchart TD
+    A[#project-general]
+    B[#project-recruitment]
+    C[#project-recruitment-review]
+    D[#project-onboarding]
+    E[#project-admin]
+
+    A --> F[Overview]
+    B --> G[Applications]
+    C --> H[Evaluation]
+    D --> I[Onboarding]
+    E --> J[Admin Coordination]
+```
+
+---
+
 ## When to Use
 - At project setup  
 - Before each recruitment cycle  
