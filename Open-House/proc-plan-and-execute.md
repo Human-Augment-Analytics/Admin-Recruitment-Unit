@@ -4,11 +4,12 @@ To be planned and executed by one or two managers or admins.
 ## Assemble Project Representative Group
 1. Create **#open-house** public slack channel if one does not already exist.
 2. Message managers for each project and ask them to join the channel or find a representative from their project to join instead.
-3. Ensure each project has a representative (some may not have managers).
-4. Introduce the Open House idea in the channel and share the expectations with the team:
+3. There may be a chance to offer volunteers extra credit / points in exchange for their efforts. Confirm this with HAAG leadership and course staff.
+4. Ensure each project has a representative (some may not have managers).
+5. Introduce the Open House idea in the channel and share the expectations with the team:
     -  Each project should optionally prepare a 10 minute presentation / demo of research activities
     -  Answer live questions from attendees, collect any questions which cannot be immediately answered
-5. Provide template for presentation.
+6. Provide template for presentation.
 
 ## Set Open House Date and Create Teams Meeting
 1. Choose a date late in the semester, before classes end. Try to avoid the exams week.
