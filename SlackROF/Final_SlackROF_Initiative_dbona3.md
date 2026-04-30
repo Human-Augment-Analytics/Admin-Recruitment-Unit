@@ -27,10 +27,33 @@ This initiative aligns strongly with HAAG’s goals of operational standardizati
 
 ---
 
+## SOP Navigation
+
+| SOP | Title | Description |
+|-----|------|------------|
+| 1.1 | [Capacity & Skill Gap Assessment](./Capacity_Skill_Gap_Assessment.md) | Defines recruitment needs |
+| 2.1 | [Standardized Application Form](./Standardized_Application_Form.md) | Collects structured applicant data |
+| 3.1 | [Onboarding Packet](./Onboarding_Packet.md) | Standardizes onboarding |
+| 4.1 | [Slack Recruitment Architecture](./Slack_Recruitment_Architecture.md) | Organizes Slack workflows |
 
 ---
 
-## SlackROF Procedures
+## End-to-End Recruitment Workflow
+
+```mermaid
+flowchart TD
+    A[Capacity & Skill Gap Assessment] --> B[Publish Role Description]
+    B --> C[Standardized Application Form]
+    C --> D[Application Submission]
+    D --> E[Candidate Review]
+    E --> F[Selection Decision]
+    F --> G[Onboarding Packet]
+    G --> H[Active Contribution]
+```
+
+---
+
+## Slack ROF Procedures
 
 The (4) Standardized Operating Procedures/Processes (SOP) are listed below with their expected outputs:
 
