@@ -15,6 +15,16 @@ Ensure all recruitment efforts are based on clearly defined needs, including req
 - HAAG Recruitment Admin Team  
 
 ---
+## Process Flow
+
+```mermaid
+flowchart TD
+    A[Assess Current Team] --> B[Identify Project Demands]
+    B --> C[Perform Gap Analysis]
+    C --> D[Define Roles]
+    D --> E[Publish Role Description]
+```
+---
 
 ## When to Use
 - End of each semester  
