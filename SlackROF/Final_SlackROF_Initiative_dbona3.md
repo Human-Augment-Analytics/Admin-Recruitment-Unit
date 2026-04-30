@@ -9,45 +9,24 @@
 
 ## Define Scope of Intiative
 
-My inititiave revolves around a modular, Slack-Integrated Recruitment Operations Framework (ROF) paired with (4) Standardized Operating Procedures/Processes (SOP) to regulate recruitment, evaluation, and onboarding processes within all HAAG research projects. The overall goal is for the framework and SOPs to adddress the current inefficiencies with research recruitment which includes
+This initiative introduces a Slack-Integrated Recruitment Operations Framework (ROF) supported by four standardized operating procedures (SOPs) designed to improve recruitment, evaluation, and onboarding processes across HAAG research projects. The framework is aimed to address the current inefficiencies with research recruitment which includes, unclear role/candidate expectations, inconsistent onboarding experiences, fragmented communication, and lack of persistent documentation across semesters. By centralizing recruitment workflows within Slack and pairing them with structured procedures, the ROF creates a repeatable, scalable, and transparent recruitment system. 
 
-- Unclear role/candidate expectations
-- Inconsistent onboarding experiences
-- Non-uniform recruitment and deliberation communication
-- Lack of persistent recruitment and project documentation
+The scope of this initiative extends across all HAAG research projects, but initial, experimental implementation can take place in certain individual projects like my current Vector DB research project led by Dr. Mussman.The framework is designed to standardize how teams assess recruitment needs, collect applicant data, centralize candidate evaluation, and enhance onboarding of new members. Ultimately, through the lens of recruitment by means of management and leadership, the goal is to improve candidate-project alignment, reduce administrative overhead, and increase both the quality and volume of applicants. At the same time, we must ensure continuity of these recruitment practices on the administrative backend, which is a common operational pitfall. This can be achieved by clearly addressing the stakeholders that these standardized operating procedures are aimed at, and designing procedures in a way that they are intuitive yet effective.
 
 ---
 
 ## Alignment with HAAG's Goals
 
-Stakeholders for my inititiative project as a whole, for example Bree, as well as the other managers within the Management & Leadership cohort have shown positive reception to a recruitment framework that revolves around Slack. It aligns with the current HAAG initiative to consolidate operational technology with HAAG research projects to the preferred method of Slack, while also addressing the recurring theme that legacy recruitment processes are not being followed semester over semester. With the aim to create a concise yet highly detailed set of Standard Operating Procedures/Processes, the stakeholders of the HAAG Recruitment Admin team should benefit from a standardized recruitment workflow, the stakeholders in the research team will realize smoother onboarding and eventual research contributions, and the candidate researchers themselves will experience efficient placement and project alignment when applying to projects. Therefore mentioned is still contingent on gathering the necessary background and further detail of previous recruitment operations and processes from the current HAAG admin team to ensure common pitfalls and repeated work is avoided or altered.
+This initiative aligns strongly with HAAG’s goals of operational standardization, improved collaboration across all members (faculty, advisors, researchers, admin, managers), and centralization of processes within one tool (Slack). Evidence of alignment were found through the following observations:
+- Onboarding of a new member (ie. myself as a manager) seeked improvement; limited access to legacy information, historical documentation was not consolidated within Slack. Required verbal and message communication from current team, and requesting past documentation from individuals or exports from Basecamp
+- HAAG Administration made it a key objective to centralize all operational processes within Slack. This was extended to create a communication architecture within Slack to outline appropriate channels for application review, deliberation discussion, and new member onboarding
+- Observed (2) current practices:
+    - 1) HAAG Admin asking each research group for high level status of project
+    - 2) HAAG Admin sending out questionnaire form for project status at the end of the semester
+    - Seemed to be a gap in addressing specific recruitment need,like if more resources/members are needed, or if specific skill types are needed
 
 ---
 
-## Testing Workflow:
-
-```mermaid
-flowchart TD
-    A[Discuss with Project Admin and Researchers H1]
-    B[Propse H2 Slack-integrated workflow and H3 Slack Architecture with HAAG Admin]
-    C[Employ H1 by Capacity & Skill Assessment and Standardized Application Form]
-    D[Implement H2 and H3 within HAAG Slack Channel and Project Slack Channel]
-    E[Undergo Recruitment Cycle]
-    F[Review Number of Applicants from Recruitment Cycle]
-    G[Assess time spent reviewing candidates with HAAG Admin]
-    H[Perform performance-based evaluation with Project Admin/Team Lead]
-    I[Obtain qualititaive feedback on application procees and delibreation process from candidiate and recruitment admin respectively]
-
-    A --> C
-    B --> D
-    C --> E
-    D --> E
-    E --> F
-    E --> G
-    E --> H
-    E --> I
-
-```
 
 ---
 
