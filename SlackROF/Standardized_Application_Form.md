@@ -15,6 +15,17 @@ Create a structured, repeatable application process that improves candidate comp
 - Project Managers  
 
 ---
+## Process Flow
+
+```mermaid
+flowchart TD
+    A[Create Application Form] --> B[Publish Form]
+    B --> C[Collect Submissions]
+    C --> D[Organize Data]
+    D --> E[Review Candidates]
+```
+
+---
 
 ## When to Use
 - During every recruitment cycle  
