@@ -43,8 +43,8 @@ The primary hypothesis is that a standardized recruitment and onboarding procedu
 
 #### KPIs Being Considered
 
-| KPI | Purpose | Status |
-|---|---|---|
+| KPI | Purpose |
+|---|---|
 | Time-to-first-PR or first meaningful contribution | Measures new contributor ramp-up speed | Not yet measured |
 | Number of repeated onboarding questions in Slack | Measures clarity of documentation | Partially measured through observation |
 | Number of access/setup blockers | Measures effectiveness of onboarding checklist | Not yet measured |
@@ -124,44 +124,20 @@ I have begun documenting the core recruitment and onboarding procedure in markdo
 
 #### Documentation Started
 
-| Document | Purpose | Status |
-|---|---|---|
-| Recruitment and Onboarding Hub | Central page containing scope, expectations, links, and onboarding checklist | Drafting |
-| Candidate Qualification Criteria | Defines required and preferred skills, availability, and communication expectations | Drafting |
-| Evaluation Rubric | Provides consistent scoring criteria for applications/interviews | Drafting |
-| Onboarding Checklist | Step-by-step checklist for new contributors | Drafting |
-| First-Week Milestones | Defines early tasks and expectations for new members | Planned |
+| Document | Purpose |
+|---|---|
+| Recruitment and Onboarding Hub | Central page containing scope, expectations, links, and onboarding checklist |
+| Candidate Qualification Criteria | Defines required and preferred skills, availability, and communication expectations |
+| Evaluation Rubric | Provides consistent scoring criteria for applications/interviews |
+| Onboarding Checklist | Step-by-step checklist for new contributors |
+| First-Week Milestones | Defines early tasks and expectations for new members |
 
 #### Planned Hosting Location
 
-The procedure will be hosted in the Vector DB Project GitHub repository, likely under a documentation folder such as:
+The procedure will be hosted in the Vector DB Project GitHub repository.
 
-~~~text
-/docs/recruitment/
-~~~
 
-Proposed file structure:
 
-~~~text
-/docs/recruitment/
-  recruitment-onboarding-hub.md
-  candidate-qualification-criteria.md
-  evaluation-rubric.md
-  onboarding-checklist.md
-  first-week-milestones.md
-~~~
-
-#### Links for Review
-
-Links will be added after the documents are committed to the GitHub repository.
-
-- Recruitment and Onboarding Hub: `TBD`
-- Candidate Qualification Criteria: `TBD`
-- Evaluation Rubric: `TBD`
-- Onboarding Checklist: `TBD`
-- First-Week Milestones: `TBD`
-
----
 
 ### 6. How are you currently measuring progress toward your goals? What indicators of success or challenges have you identified so far?
 
